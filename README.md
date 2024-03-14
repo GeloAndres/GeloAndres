@@ -12,11 +12,8 @@
     <li>🌱 <b>Desarrollador backend Junior</li>
            
 </ul>
-
-## 🚀 Proyectos destacados
-
-## 🧑‍💻 Colaboraciones 
-
 ## ⚙ My stack technologies
-|Lenguaje de programacion|Herramientas de desarrollo|Backend|
-|---|---|---|
+<h1>Lenguaje</h1>
+<p>Python</p>
+<h1>Frameworks</h1>
+<h1>Data Base</h1>
