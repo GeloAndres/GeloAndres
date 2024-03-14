@@ -6,14 +6,19 @@
 </a>
 </div>
 
-## Sobre mi
-
+## 😎Sobre mi
 <ul>
     <li>🌱 <b>Desarrollador backend Junior</li>
            
 </ul>
+
 ## ⚙ My stack technologies
+<h2>Lenguaje</h2>
+<ul>
+  <li></li>
+</ul>
+
 <h1>Lenguaje</h1>
-<p>Python</p>
-<h1>Frameworks</h1>
-<h1>Data Base</h1>
+  <p>Python</p>
+  <h1>Frameworks</h1>
+  <h1>Data Base</h1>
