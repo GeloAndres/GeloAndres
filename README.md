@@ -9,16 +9,16 @@
 ## 😎Sobre mi
 <ul>
     <li>🌱 <b>Desarrollador backend Junior</li>
-           
 </ul>
 
 ## ⚙ My stack technologies
 <h2>Lenguaje</h2>
 <ul>
-  <li></li>
+  <li>python</li>
+  <li>SQL</li>
+  <li>GIT</li>
 </ul>
-
-<h1>Lenguaje</h1>
-  <p>Python</p>
-  <h1>Frameworks</h1>
-  <h1>Data Base</h1>
+<h2>Frameworks</h2>
+<lu>
+  <li>Django</li>
+</lu>
