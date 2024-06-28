@@ -9,6 +9,7 @@
 ## 😎Sobre mi
 <ul>
     <li>🌱 <b>Desarrollador backend Junior</li>
+    <li>🌱 <b>Desarrollador de apps con Flutter</li>
 </ul>
 
 ## ⚙ My stack technologies
@@ -16,7 +17,7 @@
 <ul>
   <li>python</li>
   <li>SQL</li>
-  <li>GIT</li>
+  <li>FLUTTER</li>
 </ul>
 <h2>Frameworks</h2>
 <lu>
