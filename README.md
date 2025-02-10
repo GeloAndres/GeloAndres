@@ -9,8 +9,8 @@
 ---
 
 ## 😎 Sobre mí  
-🌱 **Desarrollador Backend Junior**  
-🪽 **Apasionado del desarrollo de aplicaciones con Dart & Flutter**  
+🌱 **Desarrollador Movil Junior**  
+🪽 **Apasionado del desarrollo de aplicaciones**  
 ✨ **Creativo y curioso por naturaleza, siempre aprendiendo algo nuevo**  
 
 ---
@@ -33,8 +33,9 @@
 ---
 
 ## 🌟 Proyectos destacados  
-💻 [**Gestión de ventas**](#) - Sistema para organizar rutas, clientes y pedidos.  
-🎬 [**Cinemapedia**](#) - Descubre información detallada sobre tus películas favoritas.  
+🎬 [**Cinemapedia**](#) - Descubre información detallada sobre tus películas favoritas. (En proceso para estar en Play stores)
+
+💻 [**Gestión de ventas**](#) - Sistema para organizar rutas, clientes y pedidos. (En desarrollo... )
 
 ---
 
